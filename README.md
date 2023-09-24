@@ -9,6 +9,7 @@ This repository is a collection of different Azure network topologies.
 > All network topologies are opiniated.
 
 ## 1. [Draft]Single region hub-spoke topology with Azure Firewall
+Traditional hub-spoke topology with Azure Firewall. 
 
 ## 2. [Draft]Multi-region hub-spoke topology with Azure Firewall
 
